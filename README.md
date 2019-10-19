@@ -1,15 +1,14 @@
 # AutoZI reproducibility repo
 
 Reproduce the results from :
-Oscar Clivio, Romain Lopez, Jeffrey Regier, Adam Gayoso, Michael I. Jordan, Nir Yosef . **Detecting Zero-Inflated Genes in Single-Cell Transcriptomics Data**. Submitted, 2019.
+Oscar Clivio, Romain Lopez, Jeffrey Regier, Adam Gayoso, Michael I. Jordan, Nir Yosef . **Detecting Zero-Inflated Genes in Single-Cell Transcriptomics Data**. *Submitted*, 2019.
 bioRxiv : https://www.biorxiv.org/content/10.1101/794875v2
 
 ## Installation
 
 ### scVI and AutoZI
 
-- Clone the `autozi` branch of the scVI repo (https://github.com/YosefLab/scVI/tree/autozi) (to be merged with the `master` branch, WIP).
-- Move to the root of the cloned repo and install scVI by running `python setup.py install`.
+Install scVI (0.5.0 or more recent) using the instructions from https://github.com/YosefLab/scVI/
 
 ### AutoZI reproducibility code
 
